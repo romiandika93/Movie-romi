@@ -2,14 +2,20 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
 
-#EXTINF:0 group-title="VISION+" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV
-http://210.210.155.37/uq2663/h/h217/01.m3u8
+#EXTINF:0 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+ 
+#EXTINF:0 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:0 group-title="VISION+" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
-http://210.210.155.37/uq2663/h/h207/01.m3u8
-
-#EXTINF:0 group-title="VISION+" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET.
-http://210.210.155.37/uq2663/h/h223/01.m3u8
+#EXTINF:0 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", NET.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
  
 #EXTINF:-1 group-title="VISION+",MOJI
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
