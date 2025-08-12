@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Live"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzdx7WKk0B8UOYeaIdDtZvwot91lz21WMF9i7uklL8zQ-NVNgy9M-8f0&s=10", PIALA KEMERDEKAAN
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=19367&type=drm
+https://red.openwindows038.workers.dev/play.mpd?id=19367&type=dash
+
 #EXTINF:-1 group-title="EVEN VIDIO 1"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhje7Q4FD1Qq_QBliTTChxbkgml4LnJZ7H9cM6A0f_EGqM_6P1Bg24Mj5M&s=10", FIVB 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4010,4 +4016,5 @@ https://cdn4.turboviplay.com/data1/67c065cb2c4e0/67c065cb2c4e0720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",Nosferatu (2025)
 https://cloud.hownetwork.xyz/xxx/a3adca4605b55c2fb4337c6745d92ba4/25/480.m3u8
+
 https://cdn4.turboviplay.com/data1/6790b7903b82a/6790b7903b82a720.m3u8
